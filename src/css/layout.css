@@ -1,0 +1,14 @@
+.totale{
+    display: flex;
+   width: 700px;
+    justify-content: center;
+    gap: 50px;
+}
+h2{
+    color: #75b90f;
+}
+main{
+    display: flex;
+    gap: 50px;
+
+}

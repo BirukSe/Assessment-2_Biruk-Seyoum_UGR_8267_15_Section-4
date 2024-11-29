@@ -149,8 +149,10 @@ main{
 }
 .what{
     display: flex;
+    height: 150px;
     justify-content: space-between;
     align-items: flex-end;
+    background-color: black;
 }
 .what p{
     color: white;
@@ -158,6 +160,10 @@ main{
 .what p a{
     text-decoration: none;
     color: white;
+}
+.ddd{
+    display: flex;
+    gap: 20px;
 }
 
 
