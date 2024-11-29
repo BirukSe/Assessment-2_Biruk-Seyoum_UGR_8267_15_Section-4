@@ -1,0 +1,166 @@
+header{
+    background-color: #252c25;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+   
+   
+   
+    padding-left: 50px;
+}
+header span{
+    color: #db7835;
+   
+
+}
+header h1{
+    color: white;
+    font-size: 50px;
+}
+header .nav-container{
+    display: flex;
+    gap: 20px;
+   
+}
+header .father{
+    padding-left: 29%;
+}
+header .nav-container a{
+    text-decoration: none;
+    color: white;
+    background-color: #75b90f;
+    width: 100px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+}
+header .nav-container .active{
+    background-color: #db7835;
+}
+header .top{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    
+}
+header .top p{
+    display: block;
+    color: white;
+}
+.container{
+    display: flex;
+   
+   
+    gap: 25px;
+    padding-left: 200px;
+    width: 900px;
+}
+.container .card h2{
+    color: #75b90f;
+   
+}
+.container .card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   
+}
+.container .card .article_vert{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 300px;
+}
+img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.footer{
+    padding-left: 50px;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+.footer h2{
+    color: white;
+}
+footer{
+    
+    background-color: #252c25;
+    height: 350px;
+   margin-bottom: 0px;
+   
+}
+.total{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+   
+}
+
+.pic{
+    width: 80px;
+    height: 50px;
+
+}
+.gallery{
+    display: flex;
+    gap: 10px;
+  
+}
+.another{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.uu{
+    float: left;
+    
+}
+.hell p{
+    color: white;
+}
+.mother{
+    width: 300px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+.good p{
+    color: white;
+}
+.star{
+    color:#75b90f
+}
+
+.sb_menu, .ex_menu {
+    list-style-type: none;
+    padding-left: 0; 
+    margin: 0; 
+}
+
+
+.sb_menu a, .ex_menu a {
+    text-decoration: none;
+    color: inherit;
+}
+.what{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.what p{
+    color: white;
+}
+.what p a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
+ 
